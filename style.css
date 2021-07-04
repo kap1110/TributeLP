@@ -24,3 +24,31 @@ html {
   position:  relative ;
   top: 700px;
 }
+
+.nav {
+  background-color: white;
+  width: 13%;
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  top: 450px;
+}
+
+.nav ul {
+  color: black;
+  list-style-type: none;
+  overflow: hidden;
+
+}
+
+.nav li {
+  text-decoration: underline;
+  float: left;
+  padding: 10px;
+  border: 2px solid black;
+}
+
+.nav li:hover {
+  text-shadow: 0px 0px 10px black;
+}
