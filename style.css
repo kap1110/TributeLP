@@ -27,12 +27,12 @@ html {
 
 .nav {
   background-color: white;
-  width: 13%;
+  width: 230px;
   border-radius: 10px;
   margin-left: auto;
   margin-right: auto;
   position: relative;
-  top: 450px;
+  top: 550px;
 }
 
 .nav ul {
