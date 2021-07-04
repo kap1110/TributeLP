@@ -20,7 +20,7 @@ html {
 
 .bottom {
   color: white;
-  position: absolute;
-  top: 90%;
-  left: 40%;
+  text-align: center;
+  position:  relative ;
+  top: 700px;
 }
